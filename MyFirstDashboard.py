@@ -9,6 +9,7 @@ Created on Wed Mar 30 11:26:09 2022
 import pandas as pd 
 import numpy as np 
 import plotly.graph_objects as go
+import matplotlib.pyplot as plt
 import plotly.express as px
 import streamlit as st
 from datetime import datetime
